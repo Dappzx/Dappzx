@@ -33,7 +33,7 @@
 ### Stats:
 
 <!-- thropy -->
-<img src="https://github-profile-trophy.vercel.app/?username=Dappzx&column=7&theme=tokyonight"/> 
+<img src="https://github-profile-trophy.vercel.app/?username=Dappzx&column=7&theme=onedark"/> 
             </p>
         </a>
             <p align="center">
@@ -43,7 +43,7 @@
          </a>
            <p align="center">
 <!-- language card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dappzx&theme=radical&layout=compact" alt=languages" height=165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dappzx&theme=chartreuse-dark&layout=compact" alt=languages" height=165">
       </p>
       </a>
            <p align="center">
