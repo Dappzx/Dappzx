@@ -33,5 +33,5 @@
 #### Stats:
 
 <a href="https://github-readme-stats-dappzx.vercel.app">
-  <img align="center" src="https://github-readme-stats-dappzx.vercel.app/api/pin/?username=dappzx&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dappzx&repo=github-readme-stats" />
 </a>
