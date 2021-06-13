@@ -33,15 +33,15 @@
 ### Stats:
 
 <!-- thropy -->
-<a herf="https://github/Dappzx/github-readme-stats">
+<a herf="https://github-readme-stats">
 <img align="https://github-profile-trophy.vercel.app/?username=Dappzx&column=8&theme=onedark"/> 
         </a>
 <!-- source code -->
-<a herf="https://github/Dappzx/github-readme-stats">
+<a herf="https://github-readme-stats">
 <img align="https://github-readme-stats.vercel.app/api/?username=Dappzx&show_icon=true&theme=radical" alt="my github stats" width="420"/>&nbsp">
          </a>
 <!-- Language card -->
-<a herf="https//github/Dappzx/github-readme-stats">
+<a herf="https//github-readme-stats">
 <img align="https://github-readme-stats.vercel.app/api/top-langs/?username=Dappzx&theme=radical&layout=compact" alt=languages" height=165">
       </p>
       </a>
