@@ -40,8 +40,8 @@
         </a>
             <p align="center">
 <!-- source code -->
-            
-<img src="https://github-readme-stats.vercel.app/api/?username=Dappzx&show_icon=true&theme=red" alt="my github stats" width="420"/>&nbsp;
+         
+<img src="https://github-readme-stats.vercel.app/api/?username=Dappzx&show_icon=true&theme=onedark" alt="my github stats" width="420"/>&nbsp;
             </p>
          </a>
          <p align="center">
