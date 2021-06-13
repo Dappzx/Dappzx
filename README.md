@@ -46,13 +46,14 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dappzx&theme=radical&layout=compact" alt=languages" height=165">
       </p>
       </a>
-      <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dappzx&langs_count=8" alt=languages" height=165">          </p>
-     </a>
-     <p align="center">
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=Dappzx&color=brightgreen&style=flat-square" alt="profile_views"/>
-</p>
-      <br/ >
+    </p>
+    <br/ >
+
+
+
+
     
 
 
