@@ -32,16 +32,6 @@
 
 #### Stats:
 
-#### Stats:
-
-[![Dappzx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dappzx)](https://github.com/Dappzx/github-readme-stats)
-
-![Dappzx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dappzx&hide=contribs,prs)
-
-![Dappzx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dappzx&count_private=true)
-
-![Dappzx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dappzx&show_icons=true)
-
 ![Dappzx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dappzx&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dappzx&layout=compact)](https://github.com/Dappzx/github-readme-stats)
