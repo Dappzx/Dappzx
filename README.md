@@ -32,6 +32,7 @@
 
 #### Stats:
 
-<a href="https://github-readme-stats-dappzx.vercel.app">
+<a href="github-readme-stats-navy-psi.vercel.app">
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dappzx&repo=github-readme-stats" />
 </a>
