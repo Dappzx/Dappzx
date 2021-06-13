@@ -33,7 +33,11 @@
 
 ### Stats:
 
-
+<!-- thropy -->
+<a href="https://Dappzx.github.io"> 
+<p align="center"> 
+<img src="https://github-profile-trophy.vercel.app/?username=rDappzx&column=7&theme=onedark"/> 
+</p>
 <a href="https://github.com/Dappzx/github-readme-stats"
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dappzx&repo=github-readme-stats" />
 </a>
