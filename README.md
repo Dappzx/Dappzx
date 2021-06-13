@@ -31,7 +31,7 @@
 <br/ >
 
 ### Stats:
-          <p align="center">
+
 <!-- thropy -->
 <img align="https://github-profile-trophy.vercel.app/?username=Dappzx&column=8&theme=onedark"/> 
           </p>
