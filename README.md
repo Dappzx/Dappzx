@@ -33,7 +33,7 @@
 ### Stats:
 
 <!-- thropy -->
-<img src="https://github-profile-trophy.vercel.app/?username=Dappzx&column=7&theme=onedark"/> 
+<img src="https://github-profile-trophy.vercel.app/?username=Dappzx&column=7&theme=tokyonight"/> 
             </p>
         </a>
             <p align="center">
@@ -47,7 +47,7 @@
       </p>
       </a>
            <p align="center">
-<img src="https://komarev.com/ghpvc/?username=rifqirosyidi&color=brightgreen&style=flat-square" alt="profile_views"/>
+<img src="https://komarev.com/ghpvc/?username=Dappzx&color=brightgreen&style=flat-square" alt="profile_views"/>
 </p>
          <br/ >
 
