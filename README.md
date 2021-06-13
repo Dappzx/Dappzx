@@ -47,7 +47,7 @@
       </p>
       </a>
            <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Dappzx&color=brightgreen&style=flat-square" alt="profile_views"/>
+<img src="https://komarev.com/ghpvc/?username=Dappzx&color=brightgreen&style=flat-square" alt="repo_views"/>
 </p>
          <p align="center">
          
