@@ -31,21 +31,10 @@
 <br/ >
 
 #### Stats:
+[![Dappzx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dappzx)](https://github.com/anuraghazra/github-readme-stats)
 
- <!-- thropy -->
-<a href="https://Dappzx.github.io"> 
-         <p align="center"> 
-                     <img src="https://github-profile-trophy.vercel.app/?username=Dappzx&column=7&theme=onedark"/>
-               </p>
-          </a>
-          
-<!-- status codes -->
-<a align="center" href="https://Dappzx.github.io"> 
-           <p align="center"> 
-           <img src="https://github-readme-stats.vercel.app/api?username=Dappzx&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dappzx&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="165"> 
-                  </p>
-           </a>
-           
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=Dappzx&color=brightgreen&style=flat-square" alt="profile_views"/>
-</p>
+![Dappzx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dappzx&hide=contribs,prs)
+
+![Dappzx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dappzx&show_icons=true)
+
+![Dappzx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dappzx&show_icons=true&theme=radical)
