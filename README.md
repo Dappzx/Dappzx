@@ -39,5 +39,5 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Dappzx&column=7&theme=onedark"/> 
 </p>
 
-<:-- Source Code -->
+<!-- Source Code -->
 <img src="https://github-readme-stats.vercel.app/api?username=Dappzx&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;
