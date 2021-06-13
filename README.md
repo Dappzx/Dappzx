@@ -44,6 +44,10 @@
 <img src="https://github-readme-stats.vercel.app/api/?username=Dappzx&show_icon=true&theme=radical" alt="my github stats" width="420"/>&nbsp;
             </p>
          </a>
+ <!-- Language card -->
+<p align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dappzx&layout=compact"/>
+       
          <p align="center">
 <img src="https://komarev.com/ghpvc/?username=rDappzx&color=brightgreen&style=flat-square" alt="profile_views"/>
 </p>
