@@ -43,13 +43,13 @@
          </a>
 <!-- Language card -->
            <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dappzx&theme=radical&layout=compact" alt=languages" height=165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dappzx&theme=radical&langs_count=8" alt=languages" height=165">
       </p>
       </a>
            <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Dappzx&color=brightgreen&style=flat-square" alt="repo_views"/>
+<img src="https://komarev.com/ghpvc/?username=Dappzx&color=brightgreen&style=flat-square" alt="profile_views"/>
 </p>
-         <p align="center">
-         
-<img src="https://komarev.com/ghpvc/?username=rDappzx&color=brightgreen&style=flat-square" alt="profile_views"/>
-<br/ >
+      <br/ >
+    
+
+
