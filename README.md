@@ -38,7 +38,7 @@
          </a>
          <p align="center">
 <!-- source code -->
-<img align="https://github-readme-stats.vercel.app/api/?username=Dappzx&show_icon=true&theme=radical" alt="my github stats" width="420"/>&nbsp">
+<img align="https://github-readme-stats.vercel.app/api/?username=Dappzx&show_icon=true&theme=radical" alt="my github stats" width="420"/>&nbsp:
          </p>
          </a>
          <p align="center">
