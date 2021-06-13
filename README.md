@@ -31,13 +31,17 @@
 <br/ >
 
 ### Stats:
-
+          <p align="center">
 <!-- thropy -->
 <img align="https://github-profile-trophy.vercel.app/?username=Dappzx&column=8&theme=onedark"/> 
-        </a>
+          </p>
+         </a>
+         <p align="center">
 <!-- source code -->
 <img align="https://github-readme-stats.vercel.app/api/?username=Dappzx&show_icon=true&theme=radical" alt="my github stats" width="420"/>&nbsp">
+         </p>
          </a>
+         <p align="center">
 <!-- Language card -->
 <img align="https://github-readme-stats.vercel.app/api/top-langs/?username=Dappzx&theme=radical&layout=compact" alt=languages" height=165">
       </p>
