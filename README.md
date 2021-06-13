@@ -40,9 +40,9 @@
         </a>
             <p align="center">
 <!-- source code -->
-<img src="https://github-readme-stats.vercel.app/api/?username=Dappzx&show_icon=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/?username=Dappzx&show_icon=true&theme=dark" alt="my github stats" width="420"/>&nbsp;
             </p>
          </a>
          <p align="center">
-<img src="https://komarev.com/ghpvc/?username=rDappzx&color=brightblue&style=flat-square" alt="profile_views"/>
+<img src="https://komarev.com/ghpvc/?username=rDappzx&color=brightgreen&style=flat-square" alt="profile_views"/>
 <br/ >
