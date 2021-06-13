@@ -1,6 +1,6 @@
 ### I'm a Fresh Graduate Student.
 - 🔭 I’m currently working on: Personal Project
-- 🌱 I’m currently learning Python, NodeJS, PHP and other Javascript Framework. 🤣
+- 🌱 I’m currently learning Python, NodeJS, PHP and other Javascript Framework.
 - 👯 I’m looking to forward to collaborate. 
 - ⚡ Fun fact: I Playing a Game.
 
